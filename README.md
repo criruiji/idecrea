@@ -1,6 +1,6 @@
 # Mi repositorio
 
 - Teclado
-- Ordenador
+- Llover
 
-Hola a todos
+Hola ha todos
